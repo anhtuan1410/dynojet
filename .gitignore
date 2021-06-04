@@ -1,0 +1,14 @@
+/document
+/vietjet_booking_portal/node_modules
+/vietjet_cms_portal/node_modules
+/vietjet_frontend_nextjs/node_modules
+/vietjet_frontend_react/node_modules
+
+# .env
+# .eslintcache
+
+# /bin/sh
+# /pm2logs
+# .idea
+# **/dist/*.dev.js
+# /logs
